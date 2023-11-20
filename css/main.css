@@ -1,0 +1,142 @@
+body{
+    background-color: #F2EBE9;
+    font-family: 'IBM Plex Serif';
+    color: #735555;
+    margin: 0px;
+}
+
+h1, h2, h3{
+    font-family: 'IBM Plex Serif', serif;
+}
+
+h1, h2, p{
+    color: #735555;
+}
+
+.p-2{
+    color: #735555;
+    font-family: sans-serif;
+}
+
+.underline{
+    text-decoration: none;
+    border: none;
+}
+
+.ui{
+    font-style: italic;
+}
+
+.u, .ui{
+    padding: 5px;
+    font-size: large;
+}
+.p{
+    color: #735555;
+    font-family: sans-serif;
+}
+
+p{
+    font-style: italic;
+    font-size: large;
+}
+
+.m120{
+    margin-top: 120px;
+}
+
+.card{
+    margin-top: 30px;
+}
+
+.card-body{
+    margin-top: 20px;
+}
+
+h3{
+    color: #735555;  
+    margin-top: 150px;
+}
+
+.btn-drop{
+    background-color: #F8F9FA;
+    border-color: #735555;
+    outline-color: #735555;
+}
+
+.btn-outline{
+    border-color: #735555;
+}
+
+.margin{
+    margin-top: 20px;
+}
+
+.img-fluid{
+    margin-top: 100px;
+}
+
+.img-rund{
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.round{
+    border-radius: 100%;
+    margin: 50px;
+}
+
+.bg-brown{
+    margin-top: 100px;
+    background-color: #BFA393;
+    width: 100%;
+}
+
+footer{
+    background-color: #F2EBE9;
+    font-family: 'IBM Plex Serif';
+    color: #735555;
+    width: 100%;
+}
+
+.adresse{
+    font-family: 'IBM Plex Serif';
+    font-style: normal;
+    max-width: 200px;
+    max-height: 120px;
+}
+
+.carousel-caption{
+    color: #F2EBE9;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.btn{
+    color: #735555;
+}
+
+.btn:first-child:active{
+    color: #735555;
+}
+
+.btn:focus-visible {
+    color: #735555;
+}
+
+.btn:hover{
+    color: #735555;
+}
+
+.form-check-input:checked {
+    background-color: #735555;
+    border-color:  #735555;
+}
+
+.see{
+    opacity: 0;
+}
+
+h5{
+    margin-top: 40px;
+}
